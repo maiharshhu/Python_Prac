@@ -17,5 +17,5 @@ if age<=110:
 
 else:
     print("you enter wrong input")
-
+print("-"*50)
 print("Thank you so much for using this program \n Have a great day")
